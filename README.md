@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/hzh0292/hzh0292/img/coding.gif" /><br>
+  <img src="https://cdn.jsdelivr.net/gh/hzh0292/hzh0292/img/null-island.png" /><br>
   
 ![暗色](https://raw.githubusercontent.com/hzh0292/hzh0292/output/github-contribution-grid-snake-dark.svg)
 
